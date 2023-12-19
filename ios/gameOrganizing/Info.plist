@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>en</string>
+	<key>CFBundleDisplayName</key>
+	<string>gameOrganizing</string>
+	<key>CFBundleExecutable</key>
+	<string>$(EXECUTABLE_NAME)</string>
+	<key>CFBundleIdentifier</key>
+	<string>$(PRODUCT_BUNDLE_IDENTIFIER)</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleName</key>
+	<string>$(PRODUCT_NAME)</string>
+	<key>CFBundlePackageType</key>
+	<string>APPL</string>
+	<key>CFBundleShortVersionString</key>
+	<string>1.3</string>
+	<key>CFBundleSignature</key>
+	<string>????</string>
+	<key>CFBundleURLTypes</key>
+	<array>
+		<dict>
+			<key>CFBundleTypeRole</key>
+			<string>Editor</string>
+			<key>CFBundleURLName</key>
+			<string>game</string>
+			<key>CFBundleURLSchemes</key>
+			<array>
+				<string>game</string>
+			</array>
+		</dict>
+	</array>
+	<key>CFBundleVersion</key>
+	<string>1</string>
+	<key>LSRequiresIPhoneOS</key>
+	<true/>
+	<key>NSAppTransportSecurity</key>
+	<dict/>
+	<key>NSCameraUsageDescription</key>
+	<string>"Играем" запрашивает доступ к камере. Это позволит вам создавать события с фотографиями.</string>
+	<key>NSLocationAlwaysAndWhenInUseUsageDescription</key>
+	<string>Ваше местоположение необходимо для определения ближайших к вам событий.</string>
+	<key>NSLocationAlwaysUsageDescription</key>
+	<string>Ваше местоположение необходимо для определения ближайших к вам событий.</string>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>Ваше местоположение необходимо для определения ближайших к вам событий.</string>
+	<key>NSFaceIDUsageDescription</key>
+	<string>Включение Face ID обеспечивает вам быстрый и безопасный доступ к вашей учетной записи.</string>
+	<key>NSMicrophoneUsageDescription</key>
+	<string>Нам нужно разрешение на передачу звука через микрофон, например, во время прямой трансляции.</string>
+	<key>NSPhotoLibraryAddUsageDescription</key>
+	<string>Нам нужно разрешение на доступ к библиотеке фотографий, чтобы изменить изображение профиля, загружать и сохранять фотографии из записей в библиотеку фотографий.</string>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>Нам нужно разрешение на доступ к библиотеке фотографий, чтобы изменить изображение профиля, загружать и сохранять фотографии из записей в библиотеку фотографий.</string>
+	<key>NSAppleMusicUsageDescription</key>
+	<string>Нам нужно разрешение на мультимедиа, например, во время прямой трансляции.</string>
+	<key>UIAppFonts</key>
+	<array>
+		<string>Inter-Bold.ttf</string>
+		<string>Inter-Light.ttf</string>
+		<string>Inter-Medium.ttf</string>
+		<string>Inter-Regular.ttf</string>
+		<string>OpenSans-Regular.ttf</string>
+		<string>OpenSans-Medium.ttf</string>
+	</array>
+	<key>UILaunchStoryboardName</key>
+	<string>LaunchScreen</string>
+	<key>UIRequiredDeviceCapabilities</key>
+	<array>
+		<string>armv7</string>
+	</array>
+	<key>UISupportedInterfaceOrientations</key>
+	<array>
+		<string>UIInterfaceOrientationPortrait</string>
+	</array>
+	<key>UISupportedInterfaceOrientations~ipad</key>
+	<array>
+		<string>UIInterfaceOrientationLandscapeLeft</string>
+		<string>UIInterfaceOrientationLandscapeRight</string>
+		<string>UIInterfaceOrientationPortrait</string>
+	</array>
+	<key>UIViewControllerBasedStatusBarAppearance</key>
+	<false/>
+</dict>
+</plist>

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1013786651633",
+    "project_id": "gameorganizing",
+    "storage_bucket": "gameorganizing.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1013786651633:android:5360e8fea106da7007b250",
+        "android_client_info": {
+          "package_name": "com.gameorganizing"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1013786651633-rq88o6skciq8i9mdsfu7k8et7vinequp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC92L53VKDIqdLzIVy2HiE7VFMq4MPqJjQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1013786651633-rq88o6skciq8i9mdsfu7k8et7vinequp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

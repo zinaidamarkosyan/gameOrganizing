@@ -1,0 +1,6 @@
+export const FONT_INTER_BOLD = 'Inter-Bold'
+export const FONT_INTER_LIGHT = 'Inter-Light'
+export const FONT_INTER_MEDIUM = 'Inter-Medium'
+export const FONT_INTER_REGULAR = 'Inter-Regular'
+export const FONT_OPEN_SANS = 'OpenSans-Regular'
+export const FONT_OPEN_SANS_MEDIUM = 'OpenSans-Medium'

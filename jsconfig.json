@@ -1,0 +1,16 @@
+{
+  "compilerOptions": {
+    "baseUrl": "./",
+    "paths": {
+      "@/*": ["src/*"],
+      "@/assets/*": ["src/assets/*"],
+      "@/components/*": ["src/components/*"],
+      "@/helpers/*": ["src/helpers/*"],
+      "@/i18n/*": ["src/i18n/*"],
+      "@/navigation/*": ["src/navigation/*"],
+      "@/screens/*": ["src/screens/*"],
+      "@/theme/*": ["src/theme/*"]
+    }
+  },
+  "exclude": ["node_modules", "dist"]
+}
